@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+#header{
+    background: blue;
+    height: 100px;
+    width: 100%;
+}
+#main{
+    background: red;
+    height: 300px;
+    width: 70%;
+    float: left;
+}
+#sizeBar{
+    background: aqua;
+    height: 300px;
+    width: 30%;
+    float: left;
+}
+#footer{
+    background: pink;
+    height: 100px;
+    width: 100%;
+    clear:both;
+}
